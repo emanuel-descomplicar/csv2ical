@@ -161,3 +161,6 @@ cython_debug/
 poetry.toml
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+# Gerado por hook graphify
+graphify-out/
