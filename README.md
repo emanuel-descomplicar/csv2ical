@@ -1,3 +1,11 @@
+---
+type: Reference
+title: Readme
+description: >-
+  README da ferramenta CLI em Python csv2ical, que converte ficheiros CSV com eventos em ficheiros iCalendar (ICS) importáveis em apps de calendário.
+timestamp: 2025-11-05T20:22:34.701748+00:00
+layer: wiki
+---
 # csv2ical
 
 ![Python versions](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue)
